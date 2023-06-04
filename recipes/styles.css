@@ -1,0 +1,21 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 600px;
+}
+
+h1 {
+    color: rgb(114, 54, 27);
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 26px;
+}
+
+li {
+    line-height: 2;
+}
