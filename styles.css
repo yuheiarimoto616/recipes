@@ -8,6 +8,18 @@ h1 {
     color: indianred;
 }
 
+img {
+    display: inline-block;
+    height: auto;
+    width: 800px;
+    margin-bottom: -400px;
+}
+
+ul {
+    display: inline-block;
+    margin: auto;
+}
+
 a {
     font-size: 20px;
     color: olive;
